@@ -1,0 +1,16 @@
+{
+    "name": "trangfoo/base",
+    "description": "TrangFoo Framework based on lumen5.4",
+    "type": "project",
+    "require": {
+        "laravel/lumen-framework": "5.4.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luomanqiang",
+            "email": "manqiang.luo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
