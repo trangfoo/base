@@ -1,6 +1,4 @@
-# TrangFoo Base Framework
-
-Framework based on lumen5.4
+# TrangFoo Framework based on lumen5.4
 ===========================
 ---
 
